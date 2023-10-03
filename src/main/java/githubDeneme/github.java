@@ -5,5 +5,9 @@ public class github {
 
         System.out.println("github nettin be ya");
 
+        System.out.println("selamlar");
+        System.out.println("github 2");
+
+
     }
 }
